@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1490026608 source:c:\users\mouhamed aly sidibe\desktop\nouveau depart\langage c\gestiondesmembres\main.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+
+1490224847 c:\users\mouhamed aly sidibe\desktop\nouveau depart\langage c\gestiondesmembres\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"structures.h"
+
+1490196777 c:\users\mouhamed aly sidibe\desktop\nouveau depart\langage c\gestiondesmembres\structures.h
+
